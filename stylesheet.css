@@ -9,10 +9,15 @@ table {
 
 body{
   font-family: 'Press Start 2P', cursive;
-  background-color: #343a40e6;
+  background-color: #c7cdd3e6;
   position: inherit;
   color: white;
 }
+
+.jumbotron {
+  height: 100px;
+}
+
 
 /* NOMES */
 .lead{
@@ -32,7 +37,7 @@ body{
 
 /* INPUTS */
 .inputDisplay{
-  color: #fff;
+  color: #000;
 }
 .entrada{
   width: 20%;
@@ -40,8 +45,8 @@ body{
 }
 /* LINHA VERTICAL  */
 .vr{
-  border-right:1px solid #ffffff;
-  height:50px;
+  border-right:1px solid #000;
+  height:40px;
   width: 50%;
 }
 
@@ -58,11 +63,11 @@ body{
 }
 
 #registrador{
-  height: 700px;
+  height: 600px;
 }
 
 #corpo{
-  height: 870px;
+  height: 770px;
 }
 
 #execute{
